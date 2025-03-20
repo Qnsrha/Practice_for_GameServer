@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parkw\\source\\repos\\MySQL_C\u002B\u002B_connector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B59DA54-B643-45AA-9C25-41C1BE63A663}|MySQL_C\u002B\u002B_connector_release\\MySQL_C\u002B\u002B_connector_release.vcxproj|C:\\Users\\parkw\\source\\repos\\MySQL_C\u002B\u002B_connector\\MySQL_C\u002B\u002B_connector_release\\test_release.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2B59DA54-B643-45AA-9C25-41C1BE63A663}|MySQL_C\u002B\u002B_connector_release\\MySQL_C\u002B\u002B_connector_release.vcxproj|solutionrelative:MySQL_C\u002B\u002B_connector_release\\test_release.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53D13006-B6AE-47DF-9C38-C750C3F80C45}|MySQL_C\u002B\u002B_connector_debug\\MySQL_C\u002B\u002B_connector_debug.vcxproj|C:\\Users\\parkw\\source\\repos\\MySQL_C\u002B\u002B_connector\\MySQL_C\u002B\u002B_connector_debug\\test_debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{53D13006-B6AE-47DF-9C38-C750C3F80C45}|MySQL_C\u002B\u002B_connector_debug\\MySQL_C\u002B\u002B_connector_debug.vcxproj|solutionrelative:MySQL_C\u002B\u002B_connector_debug\\test_debug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test_release.cpp",
+              "DocumentMoniker": "C:\\Users\\parkw\\source\\repos\\MySQL_C\u002B\u002B_connector\\MySQL_C\u002B\u002B_connector_release\\test_release.cpp",
+              "RelativeDocumentMoniker": "MySQL_C\u002B\u002B_connector_release\\test_release.cpp",
+              "ToolTip": "C:\\Users\\parkw\\source\\repos\\MySQL_C\u002B\u002B_connector\\MySQL_C\u002B\u002B_connector_release\\test_release.cpp",
+              "RelativeToolTip": "MySQL_C\u002B\u002B_connector_release\\test_release.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T01:16:30.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "test_debug.cpp",
+              "DocumentMoniker": "C:\\Users\\parkw\\source\\repos\\MySQL_C\u002B\u002B_connector\\MySQL_C\u002B\u002B_connector_debug\\test_debug.cpp",
+              "RelativeDocumentMoniker": "MySQL_C\u002B\u002B_connector_debug\\test_debug.cpp",
+              "ToolTip": "C:\\Users\\parkw\\source\\repos\\MySQL_C\u002B\u002B_connector\\MySQL_C\u002B\u002B_connector_debug\\test_debug.cpp",
+              "RelativeToolTip": "MySQL_C\u002B\u002B_connector_debug\\test_debug.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T01:16:22.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

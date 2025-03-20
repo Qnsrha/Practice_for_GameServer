@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\parkw\\source\\repos\\Overlapped_IO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D533071E-4CB5-49FF-872C-F0FCFA97151F}|Overlapped_IO_3_Server\\Overlapped_IO_3_Server.vcxproj|C:\\Users\\parkw\\source\\repos\\Overlapped_IO\\Overlapped_IO_3_Server\\Overlapped_IO_3_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D533071E-4CB5-49FF-872C-F0FCFA97151F}|Overlapped_IO_3_Server\\Overlapped_IO_3_Server.vcxproj|solutionrelative:Overlapped_IO_3_Server\\Overlapped_IO_3_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B1A2349-C309-41B1-B80A-2233EF5349B1}|Overlapped_IO_2_Server\\Overlapped_IO_2_Server.vcxproj|C:\\Users\\parkw\\source\\repos\\Overlapped_IO\\Overlapped_IO_2_Server\\Overlapped_IO_2_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B1A2349-C309-41B1-B80A-2233EF5349B1}|Overlapped_IO_2_Server\\Overlapped_IO_2_Server.vcxproj|solutionrelative:Overlapped_IO_2_Server\\Overlapped_IO_2_Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAD71B4-12AF-415A-8E9D-250870F0D672}|Overlapped_IO_3_Client\\Overlapped_IO_3_Client.vcxproj|C:\\Users\\parkw\\source\\repos\\Overlapped_IO\\Overlapped_IO_3_Client\\Overlapped_IO_3_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FEAD71B4-12AF-415A-8E9D-250870F0D672}|Overlapped_IO_3_Client\\Overlapped_IO_3_Client.vcxproj|solutionrelative:Overlapped_IO_3_Client\\Overlapped_IO_3_Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Overlapped_IO_2_Server.cpp",
+              "DocumentMoniker": "C:\\Users\\parkw\\source\\repos\\Overlapped_IO\\Overlapped_IO_2_Server\\Overlapped_IO_2_Server.cpp",
+              "RelativeDocumentMoniker": "Overlapped_IO_2_Server\\Overlapped_IO_2_Server.cpp",
+              "ToolTip": "C:\\Users\\parkw\\source\\repos\\Overlapped_IO\\Overlapped_IO_2_Server\\Overlapped_IO_2_Server.cpp",
+              "RelativeToolTip": "Overlapped_IO_2_Server\\Overlapped_IO_2_Server.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T23:44:26.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Overlapped_IO_3_Server.cpp",
+              "DocumentMoniker": "C:\\Users\\parkw\\source\\repos\\Overlapped_IO\\Overlapped_IO_3_Server\\Overlapped_IO_3_Server.cpp",
+              "RelativeDocumentMoniker": "Overlapped_IO_3_Server\\Overlapped_IO_3_Server.cpp",
+              "ToolTip": "C:\\Users\\parkw\\source\\repos\\Overlapped_IO\\Overlapped_IO_3_Server\\Overlapped_IO_3_Server.cpp",
+              "RelativeToolTip": "Overlapped_IO_3_Server\\Overlapped_IO_3_Server.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAI4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T21:37:50.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Overlapped_IO_3_Client.cpp",
+              "DocumentMoniker": "C:\\Users\\parkw\\source\\repos\\Overlapped_IO\\Overlapped_IO_3_Client\\Overlapped_IO_3_Client.cpp",
+              "RelativeDocumentMoniker": "Overlapped_IO_3_Client\\Overlapped_IO_3_Client.cpp",
+              "ToolTip": "C:\\Users\\parkw\\source\\repos\\Overlapped_IO\\Overlapped_IO_3_Client\\Overlapped_IO_3_Client.cpp",
+              "RelativeToolTip": "Overlapped_IO_3_Client\\Overlapped_IO_3_Client.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T21:38:01.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
